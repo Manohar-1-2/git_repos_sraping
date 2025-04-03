@@ -1,0 +1,3 @@
+Scrapy==2.12.0 
+scrapy-playwright==0.0.43
+playwright==1.51.0
